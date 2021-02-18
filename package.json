@@ -1,0 +1,11 @@
+{
+    "name": "vocabulary-com-apify",
+    "version": "0.0.1",
+    "dependencies": {
+        "apify": "^0.21.0"
+    },
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "AD"
+}
