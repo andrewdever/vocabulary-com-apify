@@ -19,7 +19,7 @@ Apify.main(async () => {
 
     // Parse the HTML
     const $ = cheerio.load(body);
-    // const yo = select.select()
+    // const yo = select.select();
     // const pageTitle = $('title').text();
     // const caption = $('h1').text();
     // const description = $('description').text()
